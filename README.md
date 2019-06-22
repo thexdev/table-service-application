@@ -14,7 +14,9 @@ Aplikasi ini bernama *RestoSaya*. Untuk meng-_install_ aplikasi ini, ikuti langk
   -> xampp/htdocs
 3. Rename Folder Yang Sudah Di-extract Menjadi *restosaya* [^1]
 4. Jalankan Web Service (Start Apache Dan MySQL)
-5. Buka Browser, Ketik `localhost/restosaya`
+5. Buka Browser Ketik `localhost/phpmyadmin`
+6. Import Table Dan Record Pada _assets/sql/restosya.sql_
+7. Buka Browser, Ketik `localhost/restosaya`
 
 ### Spesification
 - User : 2 Role (Admin, Kasir)
@@ -28,6 +30,11 @@ Aplikasi ini bernama *RestoSaya*. Untuk meng-_install_ aplikasi ini, ikuti langk
 1. Bootstrap 3
 2. jQuery
 3. DataTables
+
+|Role |Email  |Password|
+|-----|-------|--------|
+|Admin|admin@email.com|admin|
+|Kasir|kasir@email.com|kasir|
 
 [^1]: Karena Aplikasi Ini Menggunakan Absolute Path, Jadi Nama Folder Harus Sama Dengan URL Yang Digunakan Di Dalam Aplikasi.
 
