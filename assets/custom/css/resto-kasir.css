@@ -1,0 +1,38 @@
+#container {
+  display: flex;
+  flex-direction: row;
+}
+
+#sidebar {
+  width: 20vw;
+  height: 100vh;
+}
+
+#page-content-container {
+  background-color: whitesmoke;
+}
+
+.container {
+  margin-top: 2.5vh !important;
+}
+
+.navbar {
+  border-radius: 0px !important;
+}
+
+a.navbar-brand {
+  color: #fff !important;
+}
+
+.nav-pills li a {
+  color: #000 !important;
+}
+
+.pills-active {
+  background-color: whitesmoke;
+  border-radius: 0px;
+}
+
+.logout {
+  padding: 10px;
+}
