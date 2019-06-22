@@ -32,8 +32,4 @@ Aplikasi ini bernama *RestoSaya*. Untuk meng-_install_ aplikasi ini, ikuti langk
 
 [^1]: Karena Aplikasi Ini Menggunakan Absolute Path, Jadi Nama Folder Harus Sama Dengan URL Yang Digunakan Di Dalam Aplikasi.
 
-####################
-#                  #
-# Happy Coding! :) #
-#                  #
-####################
+> Happy Coding! :)
