@@ -1,6 +1,5 @@
 # Table-Service-Application
 A Table Service Aplication In PHP Native
-_
 
 Aplikasi ini bernama *RestoSaya*. Untuk meng-_install_ aplikasi ini, ikuti langkah dibawah ini :
 
@@ -25,7 +24,7 @@ Aplikasi ini bernama *RestoSaya*. Untuk meng-_install_ aplikasi ini, ikuti langk
 - Manage Diskon
 - Read Transaki
 
-# Add-On
+### Add-On
 1. Bootstrap 3
 2. jQuery
 3. DataTables
